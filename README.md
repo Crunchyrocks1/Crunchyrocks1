@@ -1,15 +1,13 @@
 <div align="center">
 
-```
  ██████╗ ██████╗ ██████╗ ███████╗
 ██╔════╝██╔═══██╗██╔══██╗██╔════╝
 ██║     ██║   ██║██║  ██║█████╗  
 ██║     ██║   ██║██║  ██║██╔══╝  
 ╚██████╗╚██████╔╝██████╔╝███████╗
  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
 
-### Hey, I'm a C++ & Python developer from Oklahoma 👋
+### Hey, I'm a C++ & Python Developer from Oklahoma 👋
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,10 +19,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🔧 **C++ & Python** developer with **5+ years** of experience
+- 🔧 **C++ & Python** developer with experience dating back to **2019**
 - 🖥️ Passionate about **GUI development** using **Qt** and **ImGui**
-- 📍 Based in **Oklahoma, USA**
-- 🏗️ I love building tools and applications with clean, responsive interfaces
+- 📍 Based in **Oklahoma, USA** — open to **remote opportunities**
+- 🏗️ I love building performant desktop tools and applications with clean, intuitive interfaces
 
 ---
 
@@ -35,6 +33,15 @@
 | **Languages** | C++, Python |
 | **GUI Frameworks** | Qt, ImGui |
 | **Focus** | Desktop Applications, Tools, Utilities |
+
+---
+
+## 💼 What I Bring to the Table
+
+- Solid understanding of **memory management** and **performance optimization** in C++
+- Ability to build **full GUI applications** from scratch using Qt or ImGui
+- Comfortable working across the full lifecycle of a desktop application — design, build, and ship
+- Self-driven developer who's been writing code **since 2019**
 
 ---
 
