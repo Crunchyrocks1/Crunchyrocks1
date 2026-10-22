@@ -14,6 +14,7 @@
 - 🤖 Proficient in leveraging **AI tools** to accelerate and enhance development workflows
 - ⏱️ Dedicated coder — averaging **3-15 hours a day** working on projects
 - 🏗️ I love building performant desktop tools and applications with clean, intuitive interfaces
+- 🕹️ Pokémon Go is one of my favorite games 
 
 ---
 
