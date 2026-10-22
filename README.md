@@ -22,7 +22,7 @@
 
 | Area | Technologies |
 |------|-------------|
-| **Languages** | C++, Python |
+| **Languages** | C++, Python, Java, JavaScript |
 | **GUI Frameworks** | Qt, ImGui |
 | **Scripting & Automation** | Python scripting, macro development, AFK tooling |
 | **Game Development** | Game software, cheat engines, ESP, aimbot, recoil scripts |
